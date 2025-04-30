@@ -1,0 +1,13 @@
+train: C:\Users\hemas\Desktop\major proj\weapon_detection\weapon_detection\train\images
+val: C:\Users\hemas\Desktop\major proj\weapon_detection\weapon_detection\valid\images
+test: C:\Users\hemas\Desktop\major proj\weapon_detection\weapon_detection\test\images
+
+nc: 1
+names: ["weapon"]
+
+roboflow:
+  workspace: 8-qbvoq
+  project: guns-o0wkj
+  version: 3
+  license: Private
+  url: https://universe.roboflow.com/8-qbvoq/guns-o0wkj/dataset/3
